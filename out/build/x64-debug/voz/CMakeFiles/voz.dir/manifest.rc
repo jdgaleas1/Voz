@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/pc/source/repos/voz2/out/build/x64-debug/voz/CMakeFiles/voz.dir/embed.manifest"

@@ -1,0 +1,5 @@
+C:/Users/pc/source/repos/voz2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/source/repos/voz2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/pc/source/repos/voz2/out/build/x64-debug/voz/CMakeFiles/voz.dir
+C:/Users/pc/source/repos/voz2/out/build/x64-debug/voz/CMakeFiles/edit_cache.dir
+C:/Users/pc/source/repos/voz2/out/build/x64-debug/voz/CMakeFiles/rebuild_cache.dir
